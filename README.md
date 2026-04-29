@@ -10,8 +10,6 @@ I'm a developer who loves building innovative solutions and web applications. My
 - 🔭 **Currently Building**: Innovative tools like **Fix-My-Tone** (an AI communication enhancer) and **HealthIQ** (a real-time health information platform).
 - 🌱 **Always Learning**: I'm constantly expanding my knowledge in advanced JavaScript, UI/UX design patterns, and emerging AI technologies.
 - 💡 **I enjoy**: Solving complex challenges, optimizing application performance, and learning new tech stacks.
-- 💬 **Ask me about**: JavaScript, responsive web design, RESTful APIs, and integrating third-party AI services.
-
 ---
 
 ## 🛠️ Tech Stack & Skills
